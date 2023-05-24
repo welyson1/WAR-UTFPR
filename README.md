@@ -1,6 +1,7 @@
 # WAR UTFPR
 
 O jogo analógico baseado em WAR para ensino de Metrica e Estimativas de software
+![Mapa](https://raw.githubusercontent.com/welyson1/WAR-UTFPR/main/Imagens/Mapa.png)
 
 # O jogo
 O jogo tem como objetivo testas enquanto aborda conteúdo sobre Estimativas e métricas de software, para tal foi utilizado o jogo analógico WAR como base para desenvolver o WAR UTFPR.
@@ -42,18 +43,17 @@ Ganha o jogador que cumprir a carta de objetivo.
 O software abaixo divide o PDF do mapa em em quantas folhas e formatos você preferir(Para esse projeto usamos 4 folhas no formato A4).
 
 https://gitlab.mister-muffin.de/josch/plakativ
-![Fazer Login](https://raw.githubusercontent.com/welyson1/organon/main/docsTest/Classes%20automatizadas/Login.png)
+![Gerador PDF](https://raw.githubusercontent.com/welyson1/WAR-UTFPR/main/Imagens/GeradorPDF.png)
 
 #### Cartas
 O modelo das cartas foram feitas no app DRAW.IO e exportadas em XML.
-![Fazer Login](https://raw.githubusercontent.com/welyson1/organon/main/docsTest/Classes%20automatizadas/Login.png)
+![drawIO Cartas](https://raw.githubusercontent.com/welyson1/WAR-UTFPR/main/Imagens/drawIOCartas.png)
 
 Para automatizar a geração das cartas foi utilizado um prompt no chatGPT 4.0 para substituir os textos do arquivo XML.
-![Fazer Login](https://raw.githubusercontent.com/welyson1/organon/main/docsTest/Classes%20automatizadas/Login.png)
 
 #### Soldados
 Para os soldados foi utilizado lantejogas coloridas para representar cada curso
-![Fazer Login](https://raw.githubusercontent.com/welyson1/organon/main/docsTest/Classes%20automatizadas/Login.png)
+![Lantejolas](https://raw.githubusercontent.com/welyson1/WAR-UTFPR/main/Imagens/lantejolas.png)
 
 # Downloads
 
