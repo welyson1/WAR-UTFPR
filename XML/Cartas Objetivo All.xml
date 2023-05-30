@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" modified="2023-05-24T23:57:51.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.7.9 Chrome/85.0.4183.121 Electron/10.1.3 Safari/537.36" version="13.7.9" etag="fn7SXBm0meLJyonCZVhP" type="device">
+  <diagram id="Q8CYziE7IDprjot4XgBd">
+    <mxGraphModel dx="1420" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="104" width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Aniquilar o exército vermelho. Caso este já tenha sido destruído por outro jogador ou não esteja presente no jogo, a meta muda para o domínio de 8 territórios." style="rounded=0;whiteSpace=wrap;html=1;sketch=0;gradientColor=none;fontFamily=Arial;fontSize=16;opacity=50;align=center;fillColor=none;" vertex="1" parent="2">
+          <mxGeometry width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2537/PNG/512/target_goal_icon_152113.png;opacity=50;" vertex="1" parent="2">
+          <mxGeometry x="145" y="249" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="104" width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Erradicar o exército azul. Se este exército já tiver sido derrotado por outro jogador ou não estiver em jogo, o alvo passa a ser a conquista de 8 territórios." style="rounded=0;whiteSpace=wrap;html=1;sketch=0;gradientColor=none;fontFamily=Arial;fontSize=16;opacity=50;align=center;fillColor=none;" vertex="1" parent="5">
+          <mxGeometry width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2537/PNG/512/target_goal_icon_152113.png;opacity=50;" vertex="1" parent="5">
+          <mxGeometry x="145" y="249" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="104" width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Eliminar o exército amarelo. Se tal exército já foi exterminado por outro jogador ou não está no jogo, o propósito se altera para o controle de 8 territórios." style="rounded=0;whiteSpace=wrap;html=1;sketch=0;gradientColor=none;fontFamily=Arial;fontSize=16;opacity=50;align=center;fillColor=none;" vertex="1" parent="8">
+          <mxGeometry width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2537/PNG/512/target_goal_icon_152113.png;opacity=50;" vertex="1" parent="8">
+          <mxGeometry x="145" y="249" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="820" y="104" width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Exterminar o exército verde. Se esse exército foi eliminado por outro jogador ou não existe, a tarefa se transforma na ocupação de 8 territórios." style="rounded=0;whiteSpace=wrap;html=1;sketch=0;gradientColor=none;fontFamily=Arial;fontSize=16;opacity=50;align=center;fillColor=none;" vertex="1" parent="11">
+          <mxGeometry width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2537/PNG/512/target_goal_icon_152113.png;opacity=50;" vertex="1" parent="11">
+          <mxGeometry x="145" y="249" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="434" width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Dominar os blocos&lt;br&gt;&lt;b&gt;Q S T F E R&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;gradientColor=none;fontFamily=Arial;fontSize=16;opacity=50;align=center;fillColor=none;" vertex="1" parent="14">
+          <mxGeometry width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2537/PNG/512/target_goal_icon_152113.png;opacity=50;" vertex="1" parent="14">
+          <mxGeometry x="145" y="249" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="434" width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Estabelecer controle sobre os blocos &lt;br&gt;&lt;b&gt;D C B A M L&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;gradientColor=none;fontFamily=Arial;fontSize=16;opacity=50;align=center;fillColor=none;" vertex="1" parent="17">
+          <mxGeometry width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2537/PNG/512/target_goal_icon_152113.png;opacity=50;" vertex="1" parent="17">
+          <mxGeometry x="145" y="249" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="434" width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Assumir o domínio dos blocos &lt;b&gt;K I H G M L&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;gradientColor=none;fontFamily=Arial;fontSize=16;opacity=50;align=center;fillColor=none;" vertex="1" parent="20">
+          <mxGeometry width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2537/PNG/512/target_goal_icon_152113.png;opacity=50;" vertex="1" parent="20">
+          <mxGeometry x="145" y="249" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="820" y="434" width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="Tomar posse dos blocos &lt;b&gt;K I H G O P&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;gradientColor=none;fontFamily=Arial;fontSize=16;opacity=50;align=center;fillColor=none;" vertex="1" parent="23">
+          <mxGeometry width="185" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2537/PNG/512/target_goal_icon_152113.png;opacity=50;" vertex="1" parent="23">
+          <mxGeometry x="145" y="249" width="37" height="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
