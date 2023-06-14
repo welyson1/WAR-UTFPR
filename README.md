@@ -7,7 +7,7 @@ O jogo analógico baseado em WAR para ensino de Metrica e Estimativas de softwar
 O jogo tem como objetivo levantar questionamentos sobre Estimativas e métricas de software, para tal foi utilizado o jogo analógico WAR como base para desenvolver o WAR UTFPR. Um quiz com explicações e dominação nde territorio.
 
 # Regras
-
+[![Clique para ver as regras]][https://github.com/welyson1/WAR-UTFPR/blob/b5a8fc156f21d57d384a18d487529a5e1b125ec2/Manual/README.md]
 
 # Construção
 #### Mapa
